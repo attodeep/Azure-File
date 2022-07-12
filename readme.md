@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 create a folder in your desired location
 
-### `git clone https://github.com/AmanAli28/azure-cloud.git`
+### `git clone https://github.com/AmanAli2/azure-cloud.git`
 ### `cd azure-cloud`
 ### `npm install`
 
